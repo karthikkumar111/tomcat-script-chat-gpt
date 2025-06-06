@@ -37,5 +37,3 @@ echo "Starting Tomcat..."
 cd ../bin/
 chmod +x startup.sh
 ./startup.sh
-
-        
